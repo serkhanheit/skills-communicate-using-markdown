@@ -25,6 +25,10 @@ let myVar2 = "Hello wordz !!";
 #### Lorem Ipsum, (H4)
 Ipsum lorem watches.
 
+Hurubasch
+- [x] List syntax is required
+  - [x] Item1.1, # This item is complete
+  - [ ] Item1.2, # This item is not complete
 
 ##### Lorem Ipsum, (H5)
 Ipsum lorem updates.
