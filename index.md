@@ -6,6 +6,7 @@ date: 2024-10-09
 # Lorem Ipsum, (H1)
 Ipsum lorem works from home.
 
+![Yaktocat is back on-site](https://octodex.github.com/images/yaktocat.png)
 
 ## Lorem Ipsum, (H2)
 Ipsum lorem is on-site.
